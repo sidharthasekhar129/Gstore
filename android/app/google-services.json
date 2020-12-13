@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719854024546",
+    "firebase_url": "https://nature-store-940e8.firebaseio.com",
+    "project_id": "nature-store-940e8",
+    "storage_bucket": "nature-store-940e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719854024546:android:a8a22cebf7bccee45b9e3b",
+        "android_client_info": {
+          "package_name": "com.tina.nature_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719854024546-8b5pqlgbqtacu6u56qrejo8hmd7slolg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tina.nature_store",
+            "certificate_hash": "2f61421061f9a4892c2aa91a51fd2ab94f170fd8"
+          }
+        },
+        {
+          "client_id": "719854024546-fgpi4dt05flvhs3paq7mvg92qij8lgfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSt0fc43KBGbXe5hMAHZo7FgNeKk92BO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719854024546-fgpi4dt05flvhs3paq7mvg92qij8lgfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
